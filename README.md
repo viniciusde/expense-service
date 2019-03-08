@@ -1,5 +1,6 @@
 # Expense API
-API REST de gastos com Swagger-ui. Disponível em https://apiexpense.herokuapp.com/swagger-ui.html#/expense45controller
+API REST de gastos 
+Swagger-ui. Disponível em https://apiexpense.herokuapp.com/swagger-ui.html#/expense45controller
 
 
 Acesso para lista de gastos: https://apiexpense.herokuapp.com/api/expenses
